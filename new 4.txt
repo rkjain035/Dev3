@@ -1,2 +1,0 @@
-https://github.com/rkjain035/Testing.git - to login to a repository
-added a new line
